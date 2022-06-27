@@ -25,7 +25,7 @@ eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ![image of an nn](https://cdn1.vectorstock.com/i/1000x1000/39/60/neural-net-neuron-network-vector-10723960.jpg)
 [Link](url) and ![Image](src)
 
-
+https://github.com/MLLearningAcc/MLLearningAcc1.github.io/blob/gh-pages/An-introduction-to-neural-networks-for-beginners.pdf
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
