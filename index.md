@@ -3,6 +3,7 @@
 You can use the [editor on GitHub](https://github.com/MLLearningAcc/MLLearningAcc1.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 Hi welcome to my Machone learning page. Here I'll post my projects and where I am on my machine learing Journey. Keep wathicng this page guys.
 ### Markdown
+![image of an nn](https://cdn1.vectorstock.com/i/1000x1000/39/60/neural-net-neuron-network-vector-10723960.jpg)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
